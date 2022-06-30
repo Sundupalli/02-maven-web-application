@@ -107,7 +107,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Wallmart snapshotRepository</name>
+	      <name>Wallmart snapshot Repository</name>
 	      <url>http://13.234.30.169:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
