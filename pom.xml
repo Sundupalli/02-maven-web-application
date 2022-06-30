@@ -101,13 +101,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Wallmart Releases Repository</name>
+	      <name>Wallmart Releases Nexus Repository</name>
 	      <url>http://13.234.30.169:8081/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Wallmart snapshot Repository</name>
+	      <name>Wallmart snapshot Nexus Repository</name>
 	      <url>http://13.234.30.169:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
